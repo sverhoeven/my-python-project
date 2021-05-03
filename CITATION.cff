@@ -7,8 +7,6 @@ authors:
     family-names: Smith
     given-names: John
     orcid: "https://orcid.org/0000-0000-0000-0000"
-date-released: 20??-MM-DD
-doi: <insert your DOI here>
 version: "0.1.0"
 repository-code: "https://github.com/sverhoeven/my-python-project"
 keywords:
