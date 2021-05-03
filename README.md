@@ -1,7 +1,5 @@
 ## Badges
 
-(Customize these badges with your own links, and check https://shields.io/ or https://badgen.net/ to see which other badges are available.)
-
 | fair-software.eu recommendations | |
 | :-- | :--  |
 | (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/sverhoeven/my-python-project) |
@@ -36,10 +34,6 @@ git clone https://github.com/sverhoeven/my-python-project.git
 cd my-python-project
 python3 -m pip install .
 ```
-
-## Documentation
-
-Include a link to your project's full documentation here.
 
 ## Contributing
 
